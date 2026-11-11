@@ -1,0 +1,243 @@
+[
+ {
+  "file": "kapitel-5.html",
+  "suspects": [
+   {
+    "page": "257",
+    "kind": "unspaced-run",
+    "detail": "b e i e b i g e",
+    "context": "vom Scheitel des rechten Winkels aus, auf einer der beiden Katheten irgendeine b e i e b i g e, willkürlich angenommene Strecke abgetragen und zu ihr das entsprechende Quadra"
+   },
+   {
+    "page": "258",
+    "kind": "spaced",
+    "detail": "Kon",
+    "context": "e Lösung erst dann, wenn wir über die einzelnen Beispiele auf das Verfahren der Kon – s t ru k tion zurückgreifen, in welcher die Winkelhal"
+   },
+   {
+    "page": "258",
+    "kind": "unspaced-run",
+    "detail": "s t ru k",
+    "context": "ng erst dann, wenn wir über die einzelnen Beispiele auf das Verfahren der Kon – s t ru k tion zurückgreifen, in welcher die Winkelhalbierende entsteht und in dem sie al"
+   },
+   {
+    "page": "267",
+    "kind": "garbled",
+    "detail": "1/)(y) zugänglich, wobei f,",
+    "context": "r in funktionaler Form als f(a), cp(ß), 1/)(y) zugänglich, wobei f, cp, 1/J die verschiedensten Weisen der räumlich-zeitlichen"
+   },
+   {
+    "page": "269",
+    "kind": "spaced",
+    "detail": "ent",
+    "context": "jenigen, der uns zunächst gegeben ist, als ä qui v a- 1 ent, so daß der jetzige Moment zugleich eine Entscheidung für die vergangenen und k"
+   },
+   {
+    "page": "269",
+    "kind": "ocr-word",
+    "detail": "unterwarfen -> unterwerfen",
+    "context": "t, zunächst in Gedanken einer bestimmten Änderung unterwarfen wird und daß das Urteil darauf geht, diejenigen M"
+   },
+   {
+    "page": "274",
+    "kind": "spaced",
+    "detail": "Zulängl",
+    "context": "on subjektiven Irrtümern der Beobachtung abgesehen wird – unangetastet; nur die Zulängl ich keit dieser Bestimmungsstücke für die Erklärung der"
+   },
+   {
+    "page": "275",
+    "kind": "spaced",
+    "detail": "nen",
+    "context": "r für sich allein genommen die besonderen Merkmale noch nicht, aber sie 1 e u g nen sie ebensowenig. Vielmehr lassen sie von Anfang an Raum für sie und deuten auf"
+   },
+   {
+    "page": "275",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "llein genommen die besonderen Merkmale noch nicht, aber sie 1 e u g nen sie ebensowenig. Vielmehr lassen sie von Anfang a"
+   },
+   {
+    "page": "280",
+    "kind": "spaced",
+    "detail": "ten",
+    "context": "prinzip abzuleiten gestattet. Daß diese Arbeit indes niemals zu einem ab so 1 u ten Abschluß gelangt, geht schon aus der Natur der Aufgabe selbst hervor: Denn so v"
+   },
+   {
+    "page": "280",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "en gestattet. Daß diese Arbeit indes niemals zu einem ab so 1 u ten Abschluß gelangt, geht schon aus der Natur der Aufgab"
+   },
+   {
+    "page": "280",
+    "kind": "ocr-word",
+    "detail": "Angaben -> Angeben",
+    "context": "auszudeuten. In diesem Sinne verknüpft Kepler die Angaben über die Marsörter, die ihm durch die Forschung T"
+   },
+   {
+    "page": "288",
+    "kind": "spaced",
+    "detail": "ung",
+    "context": "Aussage über Tatsächliches, insbesondere keine einzige konkrete Maß 6 es tim m ung möglich wäre, hat sich bereits allseitig gezeigt.<a href=\"#n24\""
+   },
+   {
+    "page": "288",
+    "kind": "garbled",
+    "detail": "(/Ji, (/) 2 usf.",
+    "context": "haltung der umfassenderen Relationen F, (/Ji, (/) 2 usf. dies peziellen Beziehungen 1/,'1, 1/,'2 ••• umgeformt und v"
+   },
+   {
+    "page": "291",
+    "kind": "ocr-word",
+    "detail": "thcorie -> theorie",
+    "context": "nalent aux yeux ces deus sortes de phenomenes. La thcorie, au contraire, en dcvcloppant les ramifications n"
+   },
+   {
+    "page": "291",
+    "kind": "ocr-word",
+    "detail": "ellc -> elle",
+    "context": "s-ci un ordre et une classification; il cn est qu'ellc reunit, etroitement serrees, dans un meme groupe;"
+   },
+   {
+    "page": "291",
+    "kind": "garbled",
+    "detail": "M./Erlangen 1859, S. 119-446:",
+    "context": "Christian Frisch, Bd. II, Frankfurt a. M./Erlangen 1859, S. 119-446: S. 187. – Zum Begriff der Analogie vgl. Mach, Erkenntnis un"
+   }
+  ],
+  "page_break_pages": [
+   {
+    "page": "269",
+    "expected_breaks": 2,
+    "detected": 3
+   },
+   {
+    "page": "282",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "289",
+    "expected_breaks": 1,
+    "detected": 0
+   }
+  ],
+  "missing_footnote_refs": []
+ },
+ {
+  "file": "kapitel-7.html",
+  "suspects": [
+   {
+    "page": "339",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "halt in Wahrheit auf derselben Stufe wie die sinnliche Wirk 1 ich keit, von der wir lediglich empirisch Kenntnis zu erhal"
+   },
+   {
+    "page": "345",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "wechseln, sondern die allgemeingültigen gedanklichen Post u 1 a t e der Einheit und St e – tigkeit sind es, die dem Fortg"
+   },
+   {
+    "page": "348",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "d Größe als Mittel jeglicher Konstruktion erhalten bleiben. 1 Weiterhin aber sind es auch gewisse materiale Züge des Bild"
+   },
+   {
+    "page": "349",
+    "kind": "ocr-word",
+    "detail": "lichen -> liehen",
+    "context": "aller Gegensätzlichkeit zuletzt zu einem einheit lichen Typus des Wissens zusammen. Nur in der Abstraktio"
+   },
+   {
+    "page": "352",
+    "kind": "ocr-word",
+    "detail": "elementa -> elemente",
+    "context": "f. ↩ S. Gottfried Wilhelm Leibniz,Juris et aequi elementa, in: Mittheilungen aus Leibnizens ungedruckten Sc"
+   }
+  ],
+  "page_break_pages": [
+   {
+    "page": "339",
+    "expected_breaks": 1,
+    "detected": 2
+   },
+   {
+    "page": "348",
+    "expected_breaks": 2,
+    "detected": 1
+   },
+   {
+    "page": "350",
+    "expected_breaks": 1,
+    "detected": 0
+   }
+  ],
+  "missing_footnote_refs": []
+ },
+ {
+  "file": "kapitel-8.html",
+  "suspects": [
+   {
+    "page": "354",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "em: Es zeigt sich auch hier, daß es die Art der Begriffsb i 1 dun g ist, die, wie in den übrigen Gebieten, eine charakter"
+   },
+   {
+    "page": "356",
+    "kind": "stray-bar",
+    "detail": "I",
+    "context": "vom xotv6v zweifellos nachgewirkt; aber ihr Schwerpunkt ist I hier bereits verschoben. In der Einteilung der sinnlichen W"
+   },
+   {
+    "page": "356",
+    "kind": "ocr-word",
+    "detail": "xotv6v",
+    "context": "tonische Auffassung hat in Aristoteles' Lehre vom xotv6v zweifellos nachgewirkt; aber ihr Schwerpunkt ist"
+   },
+   {
+    "page": "361",
+    "kind": "stray-bar",
+    "detail": "I",
+    "context": "heit und Vielheit, über Beharrung und Veränderung, über die I zeitliche Folge und zeitliche Dauer der Inhalte belehrt. De"
+   },
+   {
+    "page": "364",
+    "kind": "ocr-word",
+    "detail": "rrp6upov",
+    "context": "e bedeuten – so würde auch sie eben jenes vaupov :rrp6upov in sich schließen, dem wir zuvor bereits begegnet"
+   }
+  ],
+  "page_break_pages": [
+   {
+    "page": "356",
+    "expected_breaks": 0,
+    "detected": 1
+   },
+   {
+    "page": "361",
+    "expected_breaks": 0,
+    "detected": 1
+   },
+   {
+    "page": "364",
+    "expected_breaks": 2,
+    "detected": 1
+   },
+   {
+    "page": "366",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "370",
+    "expected_breaks": 1,
+    "detected": 0
+   }
+  ],
+  "missing_footnote_refs": []
+ }
+]

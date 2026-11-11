@@ -1,0 +1,97 @@
+[
+ {
+  "file": "kapitel-1.html",
+  "old": "<span class=\"pb\" id=\"s-2\" data-p=\"2\" title=\"1910, S. 2\"></span>",
+  "new": "<span class=\"pb\" id=\"s-4\" data-p=\"4\" title=\"1910, S. 4\"></span>"
+ },
+ {
+  "file": "kapitel-1.html",
+  "old": "<span class=\"pg\" id=\"ecw-1\" data-p=\"1\" title=\"ECW 6, S. 1\"></span>",
+  "new": "<span class=\"pg\" id=\"ecw-1\" data-p=\"1\" title=\"ECW 6, S. 1\"></span><span class=\"pb\" id=\"s-3\" data-p=\"3\" title=\"1910, S. 3\"></span>"
+ },
+ {
+  "file": "kapitel-5.html",
+  "old": "<span class=\"pb\" id=\"s-312\" data-p=\"312\" title=\"1910, S. 312\"></span>",
+  "new": "<span class=\"pb\" id=\"s-314\" data-p=\"314\" title=\"1910, S. 314\"></span>"
+ },
+ {
+  "file": "kapitel-5.html",
+  "old": "<span class=\"pg\" id=\"ecw-255\" data-p=\"255\" title=\"ECW 6, S. 255\"></span>",
+  "new": "<span class=\"pg\" id=\"ecw-255\" data-p=\"255\" title=\"ECW 6, S. 255\"></span><span class=\"pb\" id=\"s-313\" data-p=\"313\" title=\"1910, S. 313\"></span>"
+ },
+ {
+  "file": "kapitel-1.html",
+  "old": "Mo ritz Wilhelm Drobisch, N euc Darstellung",
+  "new": "Moritz Wilhelm Drobisch, Neue Darstellung"
+ },
+ {
+  "file": "kapitel-1.html",
+  "old": "Friedrich Ueberwcg",
+  "new": "Friedrich Ueberweg"
+ },
+ {
+  "file": "kapitel-1.html",
+  "old": "Bd.11, S.422",
+  "new": "Bd. II, S.422"
+ },
+ {
+  "file": "kapitel-1.html",
+  "old": "erfafü und heraushebt",
+  "new": "erfaßt und heraushebt"
+ },
+ {
+  "file": "kapitel-2.html",
+  "old": "umfallt und beherrscht",
+  "new": "umfaßt und beherrscht"
+ },
+ {
+  "file": "kapitel-2.html",
+  "old": "fallenläfü.",
+  "new": "fallenläßt."
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "CEuvres incdites",
+  "new": "Œuvres inédites"
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "catcnam scicntiarum",
+  "new": "catenam scientiarum"
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "animo rctincrc",
+  "new": "animo retinere"
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "[ECWt]",
+  "new": "[ECW 1]"
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "Geometrie der Lage(§ 8)",
+  "new": "Geometrie der Lage (§ 8)"
+ },
+ {
+  "file": "kapitel-3.html",
+  "old": "Abt.[= Bd.J I,",
+  "new": "Abt. [= Bd.] I,"
+ },
+ {
+  "file": "kapitel-6.html",
+  "old": "S. 23 7 ff.",
+  "new": "S. 237 ff."
+ },
+ {
+  "file": "kapitel-6.html",
+  "old": "festgestellt. 1</p>",
+  "new": "festgestellt.</p>"
+ },
+ {
+  "file": "kapitel-4.html",
+  "old": "<span class=\"sp\">hypo</span> thetische",
+  "new": "<span class=\"sp\">hypothetische</span>"
+ }
+]

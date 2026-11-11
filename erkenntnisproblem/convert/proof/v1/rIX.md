@@ -1,0 +1,9 @@
++ in der <g>kritischen</g> Philosophie, mit deren Darstellung das Werk seinen Abschluß erreichen soll. Die Vorarbeiten zu diesem Bande sind so weit fortgeschritten, daß er, wie ich hoffe, in kurzem erscheinen wird.
+
+Berlin, im Januar 1906.
+
+<g>Ernst Cassirer</g>.
+
+### Zur zweiten Auflage.
+
+Zwischen dem ersten Abschluß dieser Schrift und ihrer zweiten Auflage liegen drei Jahre, während deren ich hauptsächlich mit systematischen Studien über die Grundfragen der Erkenntniskritik beschäftigt war. Auch diese Studien, die jetzt in der Schrift „Substanzbegriff und Funktionsbegriff“ (Berlin 1910) zusammengefaßt sind, stehen jedoch mit dem Thema des vorliegenden Buches in engem Zusammenhang: sie versuchen, die Grundauffassung der Erkenntnis, die innerhalb der rein geschichtlichen Betrachtung nur in allgemeinen Umrissen dargestellt werden konnte, schärfer zu bestimmen und eingehender zu begründen. Was somit den systematischen Teil der Aufgabe betrifft, so konnte ich mich in dieser Neubearbeitung darauf beschränken, auf diese ausführlicheren Darlegungen zurückzuweisen. Dagegen erforderten die geschichtlichen Entwicklungen, bei dem Umfang und der Mannigfaltigkeit des Materials, überall eine erneute kritische Nachprüfung. Hier mußte, um die Darstellung genauer und prägnanter zu gestalten, wiederum durchweg auf die Quellen selbst zurückgegangen werden. Insbesondere ist es der erste Band, der hierbei vielfach ergänzt und berichtigt wurde; doch haben auch im zweiten Bande einzelne Abschnitte, wie z. B. der Abschnitt über <g>Gassendi</g> eine durchgreifende Umgestaltung erfahren. Die einleitenden Betrachtungen über das Erkenntnisproblem in der griechischen Philosophie sind diesmal fortgefallen, da sie mir in ihrer bisherigen Fassung nicht mehr genügten, eine eingehendere Darlegung aber über den Rahmen dieses Buches hinausgegangen wäre. Die Belegstellen und Anmerkungen, die in der ersten Auflage am Schluß

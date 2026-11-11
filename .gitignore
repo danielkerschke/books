@@ -1,0 +1,6 @@
+*.pdf
+__pycache__/
+erkenntnisproblem/convert/work/
+**/.claude/
+erkenntnisproblem/vol1.txt
+erkenntnisproblem/alt/

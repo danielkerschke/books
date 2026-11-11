@@ -1,0 +1,265 @@
+[
+ {
+  "file": "vorwort.html",
+  "suspects": [
+   {
+    "page": "VII",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "r den Gesamtzweck der Untersuchung nicht, einzelne Bei spie 1 e aus den besonderen Wissenschaften zur Stütze der logische"
+   }
+  ],
+  "page_break_pages": [],
+  "missing_footnote_refs": []
+ },
+ {
+  "file": "kapitel-1.html",
+  "suspects": [
+   {
+    "page": "8",
+    "kind": "spaced",
+    "detail": "Berkeley",
+    "context": "uf den ersten Blick erscheinen mag, keine wahrhafte Umwandlung. Man kann es bei Berkeley bis ins einzelne verfolgen, wie sehr seine Skepsis gegen den Wert und die Leist"
+   },
+   {
+    "page": "10",
+    "kind": "ocr-word",
+    "detail": "Abstrakta -> Abstrakte",
+    "context": "ahe verwandt ist: Die sachlichen und sprachlichen Abstrakta können aus den Wahrnehmungsinhalten abgeleitet we"
+   },
+   {
+    "page": "12",
+    "kind": "spaced",
+    "detail": "ung",
+    "context": "d Arithmetik von neuem in bloße Aussagen über bestimmte Gruppen von Vors t e 11 ung s bilder n aufgelöst. Aber diese Auffassung versagt, we"
+   },
+   {
+    "page": "12",
+    "kind": "ocr-word",
+    "detail": "entwarfen -> entwerfen",
+    "context": "ndig dem ursprünglichen Eindruck, nach welchem es entwarfen ist. So erscheint es begreiflich, daß wir, um zu"
+   },
+   {
+    "page": "14",
+    "kind": "spaced",
+    "detail": "ung",
+    "context": "eziehung dagegen zuletzt ein abstrakter Gegenstand, ein allgemeines Vors t e 11 ung s bild sich entwickelt, in dem die ähnlichen Züge verei"
+   },
+   {
+    "page": "14",
+    "kind": "stray-bar",
+    "detail": "1-",
+    "context": "data-p=\"14\" title=\"ECW 6, S. 14\"> heit erlangen 1- indem sie allein, dank ihres häufigen Auftretens, sich dem"
+   },
+   {
+    "page": "22",
+    "kind": "stray-bar",
+    "detail": "I",
+    "context": "dung fortfällt, den Inbegriff ins Auge zu fassen, dem jenes I Merkmal als vereinzelte Bestimmung angehört. Wir können von"
+   },
+   {
+    "page": "22",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "tive Leistung der Abstraktion. Wir gehen von einer Reihe aa 1 ß1, aa2 ß2, aa3 ß3 ••• nicht unmittelbar zu ihrem gemeinsam"
+   }
+  ],
+  "page_break_pages": [
+   {
+    "page": "6",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "14",
+    "expected_breaks": 2,
+    "detected": 0
+   },
+   {
+    "page": "15",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "22",
+    "expected_breaks": 1,
+    "detected": 2
+   },
+   {
+    "page": "26",
+    "expected_breaks": 1,
+    "detected": 2
+   }
+  ],
+  "missing_footnote_refs": []
+ },
+ {
+  "file": "kapitel-2.html",
+  "suspects": [
+   {
+    "page": "27",
+    "kind": "ocr-word",
+    "detail": "strcnggenommen -> strenggenommen",
+    "context": "ffenbaren. Die Theorie der »Abstraktion« verfügt, strcnggenommen, über keinen anderen Gesichtspunkt: Wie die Gegen"
+   },
+   {
+    "page": "32",
+    "kind": "spaced",
+    "detail": "ung",
+    "context": "Zahlbegriffs scheint sich ihm hier aufs neue zu erschließen. Als Vors t e 1- 1 ung, als psychische Wirklichkeit bleibt die Zahl von all den Beschränkungen frei, d"
+   },
+   {
+    "page": "32",
+    "kind": "stray-bar",
+    "detail": "1-",
+    "context": "cheint sich ihm hier aufs neue zu erschließen. Als Vors t e 1- 1 ung, als psychische Wirklichkeit bleibt die Zahl von all"
+   },
+   {
+    "page": "32",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "tung teilt. Die Zahlenlehre gelangt auch jetzt nicht zu s e 1 b ständiger logischer Begründung; sondern sie bildet, wie s"
+   },
+   {
+    "page": "37",
+    "kind": "spaced",
+    "detail": "Ten",
+    "context": "e wesentliche Ten – denz hervorzuheben. Die Voraussetzungen für die Ableitung des Zahl begriff s"
+   },
+   {
+    "page": "37",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "ier nicht um seiner selbst willen, sondern nur als Bei spie 1 für die Gestaltung der reinen » Funktionalbegriffe« interes"
+   },
+   {
+    "page": "39",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "alzahlen oder auch schlechthin Zahlen, und das Grundelement 1 heifü die Grundzahl der Zahlenreihe N. In Rücksicht auf die"
+   },
+   {
+    "page": "40",
+    "kind": "ocr-word",
+    "detail": "verkennt -> verkannt",
+    "context": "n von Tönen verschieden sind. Aber dieser Einwand verkennt das eigentliche Ziel und die Grundtendenz von Ded"
+   },
+   {
+    "page": "42",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "d sagen von diesem nunmehr, daß es aus n Elementen bestehe. 1 Hierbei ist allerdings vorausgesetzt, daß es eine und nur e"
+   },
+   {
+    "page": "43",
+    "kind": "ocr-word",
+    "detail": "Sprachen -> Sprechen",
+    "context": "indem sie nunmehr gleichsam in zwei verschiedenen Sprachen gelesen werden können. Wenn somit durch den Übe"
+   },
+   {
+    "page": "46",
+    "kind": "ocr-word",
+    "detail": "els -> als",
+    "context": "sich die Glieder der beiden Mengen einander wechs els ei tig eindeutig zuordnen lassen. Kraft dieses Ve"
+   },
+   {
+    "page": "48",
+    "kind": "ocr-word",
+    "detail": "lege -> lage",
+    "context": "en des Kaisers wird von vier Pferden gezogen,< so lege ich die Zahl vier dem Begriffe >Pferd, das den Wa"
+   },
+   {
+    "page": "57",
+    "kind": "unspaced-run",
+    "detail": "B zu C u",
+    "context": "sind z.B. A, B, C, D ... , und daß die Relation des A zu B als der Relation des B zu C u. s. w. gleich betrachtet werden kann. Hier gehört nun zu dem Begriff der Entgeg"
+   },
+   {
+    "page": "57",
+    "kind": "stray-bar",
+    "detail": "-1",
+    "context": "ang) von A zu B als + 1 gilt, die Relation von B zu A durch -1 dargestellt werden muß. Insofern also eine solche Reihe auf"
+   },
+   {
+    "page": "58",
+    "kind": "stray-bar",
+    "detail": "-1",
+    "context": "radictio in adjecto; eine negative Beziehung ist nur das not-1 wendige logische Korrelat des Relationsbegriffs überhaupt,"
+   },
+   {
+    "page": "65",
+    "kind": "stray-bar",
+    "detail": "1",
+    "context": "eder zurückbleibt. Die Einführung der transfiniten Zahlen a 1 und a 0 will lediglich diesen charakteristischen Grundunter"
+   },
+   {
+    "page": "66",
+    "kind": "spaced",
+    "detail": "halt ung der Abfolge",
+    "context": "ahl oder denselben »Ordnungstypus« zu, wenn sich die Elemente beider unter Fest halt ung der Abfolge, die für beide Inbegriffe gilt, einander gegenseitig eindeutig zuordnen lassen:"
+   },
+   {
+    "page": "66",
+    "kind": "ocr-word",
+    "detail": "w0l",
+    "context": "ur Konstruktion der Typen w2, w3, ••• wn, ja auch w0l, www usf. überzugehen. Und es sind keineswegs blo"
+   },
+   {
+    "page": "70",
+    "kind": "ocr-word",
+    "detail": "dcrs -> ders",
+    "context": "m of Logic (Buch II, Kap. VI), Bd. I, S. 282-293; dcrs., Examination of Sir William Hamilton's Philosoph"
+   },
+   {
+    "page": "70",
+    "kind": "garbled",
+    "detail": "Leipzig/Berlin 1910 [Wissenschaft und",
+    "context": "r exakten Wissenschaften [Kap. 3 u. 4], Leipzig/Berlin 1910 [Wissenschaft und Hypothese, Bd. 12]). ↩ Über William Hamiltons Definition de"
+   },
+   {
+    "page": "70",
+    "kind": "garbled",
+    "detail": "Leipzig/Wien 1890, S.68f. ↩",
+    "context": "stheorie, Teil I, hrsg. v. Gustav Kohn, Leipzig/Wien 1890, S.68f. ↩ Cantor, Grundlagen einer allgemeinen Mannichfaltigkeitslehr"
+   }
+  ],
+  "page_break_pages": [
+   {
+    "page": "37",
+    "expected_breaks": 1,
+    "detected": 2
+   },
+   {
+    "page": "39",
+    "expected_breaks": 2,
+    "detected": 3
+   },
+   {
+    "page": "44",
+    "expected_breaks": 2,
+    "detected": 1
+   },
+   {
+    "page": "51",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "54",
+    "expected_breaks": 2,
+    "detected": 1
+   },
+   {
+    "page": "58",
+    "expected_breaks": 1,
+    "detected": 0
+   },
+   {
+    "page": "60",
+    "expected_breaks": 1,
+    "detected": 0
+   }
+  ],
+  "missing_footnote_refs": []
+ }
+]
